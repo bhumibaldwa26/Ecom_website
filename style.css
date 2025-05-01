@@ -348,6 +348,7 @@ h5 a {
 .blog-box {
   flex: 1;
   position: relative;
+  flex-basis: 300px;
 }
 .blog-box::before {
   content: "";
