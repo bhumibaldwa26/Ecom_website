@@ -399,3 +399,6 @@ h5 a {
   opacity: 1;
   visibility: visible;
 }
+form h3 {
+  font-size: 1.4 rem;
+}
